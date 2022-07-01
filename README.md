@@ -1,5 +1,9 @@
 # I am available for _Freelance work_. [Contact me](#contact-me)
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 Your business can now hire me (**trungtruc**) for small **Computer Vision** **Speech** and **NLP** side projects.
 
 [Contact me](#contact-me) (`tieuthu.anninh@gmail.com`) for details.
