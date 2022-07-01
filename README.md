@@ -59,3 +59,5 @@ Liked some of my work? Buy me a coffee (or more likely a beer)
   - [Facebook](https://www.facebook.com/profile.php?id=100038801181933).
   
 ![github contribution grid snake animation](https://raw.githubusercontent.com/hoc081098/hoc081098/output/github-contribution-grid-snake.svg)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
