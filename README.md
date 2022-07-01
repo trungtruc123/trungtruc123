@@ -18,12 +18,12 @@ Liked some of my work? Buy me a coffee (or more likely a beer)
 
 ### Skills
 
-[![Computer Vision](https://img.shields.io/badge/reactiveX-%23E4405F.svg?&style=for-the-badge)]
-[![NLP](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)]
-[![Speech](https://img.shields.io/badge/android-teal.svg?&style=for-the-badge&logo=android&logoColor=white")]
-[![Python](https://img.shields.io/badge/swift-%23FFac45.svg?&style=for-the-badge&logo=swift&logoColor=white)
-[![Machine learning](https://img.shields.io/badge/iOS-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white")]
-[![Flutter](https://img.shields.io/badge/flutter-%233498DB.svg?&style=for-the-badge&logo=flutter&logoColor=white)]
+[![Computer Vision]]
+[![NLP]]
+[![Speech]]
+[![Python]]
+[![Machine learning]]
+[![Flutter]]
 
 ### Hello visitors
   
