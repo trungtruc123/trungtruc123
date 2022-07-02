@@ -33,6 +33,7 @@ Your business can now hire me (**trungtruc**) for small **Computer Vision**, **S
 
 ### Buy me a coffee
 Liked some of my work? Buy me a coffee (or more likely a beer)
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tructt?new=1)
 
 ### Contact me
@@ -50,9 +51,8 @@ Liked some of my work? Buy me a coffee (or more likely a beer)
 [![Machine learning]]
 [![Flutter]]
 
-### Hello visitors
   
-  ### Resume and blog
+### Resume and blog
   
   - [My CV]().
   - [Medium](https://viblo.asia/u/tructt2).
