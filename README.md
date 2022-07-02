@@ -44,8 +44,8 @@ Liked some of my work? Buy me a coffee (or more likely a beer)
 
 ### Skills
 
-[![Computer Vision]]
-[![NLP]]
+Computer Vision
+[![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)]
 [![Speech]]
 [![Python]]
 [![Machine learning]]
