@@ -3,6 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -11,9 +12,7 @@ Your business can now hire me (**trungtruc**) for small **Computer Vision**, **S
 
 [Contact me](#contact-me) (`tieuthu.anninh@gmail.com`) for details.
 
-## A self-taught AI Engineer
-
-## Language and tools
+### Language and tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -31,6 +30,7 @@ Your business can now hire me (**trungtruc**) for small **Computer Vision**, **S
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 ### Buy me a coffee
 Liked some of my work? Buy me a coffee (or more likely a beer)
 
@@ -59,5 +59,7 @@ Liked some of my work? Buy me a coffee (or more likely a beer)
   - [Facebook](https://www.facebook.com/profile.php?id=100038801181933).
   
 ![github contribution grid snake animation](https://raw.githubusercontent.com/hoc081098/hoc081098/output/github-contribution-grid-snake.svg)
+
+### Github Stats:<a href="https://profile-summary-for-github.com/user/trungtruc123">https://profile-summary-for-github.com/user/trungtruc123</a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
