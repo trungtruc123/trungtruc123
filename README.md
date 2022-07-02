@@ -12,6 +12,37 @@ Your business can now hire me (**trungtruc**) for small **Computer Vision**, **S
 
 [Contact me](#contact-me) (`tieuthu.anninh@gmail.com`) for details.
 
+### Buy me a coffee
+Liked some of my work? Buy me a coffee (or more likely a beer)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tructt?new=1)
+
+### Contact me
+                  
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100038801181933)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/truc-tran-trung-380533149/)
+[![Email](https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:tieuthu.anninh@gmail.com?subject=[Freelancer]%20Hello)
+
+### Skills
+
+[![Chatbot Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)]
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)]
+[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)]
+[![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)]
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)]
+[	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)]
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)]
+
+
+### Resume and blog
+  
+  - [My CV]().
+  - [Medium](https://viblo.asia/u/tructt2).
+  - [Facebook](https://www.facebook.com/profile.php?id=100038801181933).
+  
+![github contribution grid snake animation](https://raw.githubusercontent.com/hoc081098/hoc081098/output/github-contribution-grid-snake.svg)
+
 ### Language and tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -31,37 +62,6 @@ Your business can now hire me (**trungtruc**) for small **Computer Vision**, **S
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### Buy me a coffee
-Liked some of my work? Buy me a coffee (or more likely a beer)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tructt?new=1)
-
-### Contact me
-                  
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100038801181933)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/truc-tran-trung-380533149/)
-[![Email](https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:tieuthu.anninh@gmail.com?subject=[Freelancer]%20Hello)
-
-### Skills
-
-[![Chatbot Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)]
-[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)]
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)]
-[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)]
-[![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)]
-[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)]
-[	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]
-[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)]
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-### Resume and blog
-  
-  - [My CV]().
-  - [Medium](https://viblo.asia/u/tructt2).
-  - [Facebook](https://www.facebook.com/profile.php?id=100038801181933).
-  
-![github contribution grid snake animation](https://raw.githubusercontent.com/hoc081098/hoc081098/output/github-contribution-grid-snake.svg)
 
 ### Github Stats:<a href="https://profile-summary-for-github.com/user/trungtruc123">https://profile-summary-for-github.com/user/trungtruc123</a>
 
