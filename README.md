@@ -37,7 +37,7 @@ Liked some of my work? Buy me a coffee (or more likely a beer)
 
 ### Resume and blog
   
-  - [My CV]().
+  - [My CV](https://github.com/trungtruc123/CV_Professional/blob/main/Simple_CV.pdf).
   - [Medium](https://viblo.asia/u/tructt2).
   - [Facebook](https://www.facebook.com/profile.php?id=100038801181933).
   
